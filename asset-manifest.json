@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/backstagetalks/static/css/main.d08e8ccf.css",
+    "main.js": "/backstagetalks/static/js/main.5c5471b5.js",
+    "static/js/787.f5db70bc.chunk.js": "/backstagetalks/static/js/787.f5db70bc.chunk.js",
+    "static/media/1.png": "/backstagetalks/static/media/1.167813af2c961292d28f.png",
+    "static/media/2.png": "/backstagetalks/static/media/2.1f520dcf7d7d4b079b28.png",
+    "static/media/3.png": "/backstagetalks/static/media/3.dfba35aaee1a292a53d0.png",
+    "static/media/4.png": "/backstagetalks/static/media/4.345528d1f2fdbad67e6b.png",
+    "static/media/5.png": "/backstagetalks/static/media/5.7627d576b39e62852c94.png",
+    "static/media/6.png": "/backstagetalks/static/media/6.dc0dce4c09e077f05767.png",
+    "index.html": "/backstagetalks/index.html",
+    "main.d08e8ccf.css.map": "/backstagetalks/static/css/main.d08e8ccf.css.map",
+    "main.5c5471b5.js.map": "/backstagetalks/static/js/main.5c5471b5.js.map",
+    "787.f5db70bc.chunk.js.map": "/backstagetalks/static/js/787.f5db70bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08e8ccf.css",
+    "static/js/main.5c5471b5.js"
+  ]
+}
